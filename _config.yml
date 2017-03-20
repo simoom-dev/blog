@@ -4,7 +4,7 @@ name: Simoom Development Blog
 description: A place to get updates on the development od the game
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: https://simoom-devblog.github.io
+url: https://simoom-dev.github.io/blog/
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
