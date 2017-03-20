@@ -11,6 +11,7 @@
                     <div class="post-time">
                       <i class="fa fa-calendar"></i>
                       <time>{{ page.date | date_to_string }}</time>
+                      <small>&nbsp;&nbsp; by {{ page.author }}</small>
                     </div>
                     <ul>
                       {% for tag in page.tags %}
