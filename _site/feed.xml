@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Simoom Development Blog</title>
+		<description>A place to get updates on the development od the game</description>
+		<link>https://simoom-devblog.github.io</link>
+		<atom:link href="https://simoom-devblog.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Week 0: the concept</title>
+				<description>&lt;h1 id=&quot;finally&quot;&gt;Finally&lt;/h1&gt;
+
+&lt;p&gt;We are starting a new game.&lt;/p&gt;
+
+&lt;p&gt;It’s ben a long time desire of mine and of team mates. It’s good to finally have both a team and have them all motivated. It’s going to be a long road, but we are confident and happy with the opportunity.&lt;/p&gt;
+
+&lt;h1 id=&quot;bootstrapping&quot;&gt;bootstrapping&lt;/h1&gt;
+
+&lt;p&gt;The first concept of Simoom was created in a gamejan some of us took part in a year or so back. We could not afford the time for the project and it eventually faded to inexistence.&lt;/p&gt;
+
+&lt;p&gt;Now, we have both the opportunity and motivation to make of this game something much better than what we have envisioned back then.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-game&quot;&gt;The Game&lt;/h1&gt;
+
+&lt;p&gt;The best one-liner would be: “an arabic roguelike shoot’em up whith an isometric camera named Simoom”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;simoom&quot;&gt;si·moom&lt;/h2&gt;
+  &lt;p&gt;### /səˈmo͞om/&lt;br /&gt;
+&lt;em&gt;noun: simoom; plural noun: simooms; noun: simoon; plural noun: simoons&lt;/em&gt;&lt;br /&gt;
+a hot, dry, dust-laden wind blowing in the desert, especially in Arabia.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As of now, there is not much purpose in elaborating anything in detail, there is yet much to be defined, but the basic idea could very well be explored here.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://simoom-devblog.github.io/images/2017-3-18_2221.jpg&quot; alt=&quot;development_steps&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You are something/someone and have to reach somewhere. Your path is obstructed by events in a series of small connected arenas generated as you go. You have to traverse a graph-like map to reach your destiny while you fend for yourself and you cannot take to long, else Simoom will catch you.&lt;/p&gt;
+
+&lt;p&gt;We still have to make an actual presentation for the game, so we will let you know when that happens.&lt;/p&gt;
+
+&lt;p&gt;As a bonus, one of the concepts we are already working with:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://simoom-devblog.github.io/images/2017-03-18_19.11.22.png&quot; width=&quot;400px&quot; alt=&quot;development_steps&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://simoom-devblog.github.io/images/seethis.png&quot; width=&quot;400px&quot; alt=&quot;development_steps&quot; /&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 20 Mar 2017 07:00:00 -0300</pubDate>
+				<link>https://simoom-devblog.github.io/2017/03/week-0</link>
+				<guid isPermaLink="true">https://simoom-devblog.github.io/2017/03/week-0</guid>
+			</item>
+		
+	</channel>
+</rss>
