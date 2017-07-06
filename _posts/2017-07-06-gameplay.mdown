@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Check out the gameplay!"
+date: 2017-07-06 2:00:00
+tags: gameplay
+description: Gameplay video, a description of the current playable game and some cool stuff
+author: mseefelder
+---
+
+# Alpha version! Check it out!
+
+## Gameplay video (and short description)
+
+{% youtube MnLTP0E21lk %}
+
+> # The apocalyptic Simoom threatens the world, the deadliest sandstorm ever seen!
+> Fight 4 types of enemies, get stronger as you go deeper into the desert and defeat the creatures.
+> Dash away for your life! Drink up to heal! Fill up your water on any Oasis you find!
+> Shoot your way through the desert to escape the Simoom!
+
+# Some cool loops
+
+## You! The player
+
+<video preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 1280px; height: 720px;">
+                <source src="{{ site.url | append:site.baseurl }}/videos/player.webm" type="video/webm">
+</video>
+
+## The ferocious Gila, the desert lizard! Very fast, like to bite you, dash away from it before it's too late!
+
+<video preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 1280px; height: 720px;">
+                <source src="{{ site.url | append:site.baseurl }}/videos/gila.webm" type="video/webm">
+</video>
+
+## The terrible Giant Scorpion! Be careful, they attack in groups!
+
+<video preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 1280px; height: 720px;">
+                <source src="{{ site.url | append:site.baseurl }}/videos/scorpio.webm" type="video/webm">
+</video>
+
+## The slick Flying Snake! Good luck in trying to hit it!
+
+<video preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 1280px; height: 720px;">
+                <source src="{{ site.url | append:site.baseurl }}/videos/snek.webm" type="video/webm">
+</video>
+
+## The dreadful Karkadan, the armoured rhino! Stay away from his path!
+
+<video preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline="" style="width: 1280px; height: 720px;">
+                <source src="{{ site.url | append:site.baseurl }}/videos/karkadan.webm" type="video/webm">
+</video>
