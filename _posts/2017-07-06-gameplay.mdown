@@ -11,7 +11,11 @@ author: mseefelder
 
 ## Gameplay video (and short description)
 
-{% youtube MnLTP0E21lk %}
+<div class="video">
+ <figure>
+   <iframe width="640" height="480" src="//www.youtube.com/embed/MnLTP0E21lk" allowfullscreen></iframe>
+ </figure>
+</div>
 
 > # The apocalyptic Simoom threatens the world, the deadliest sandstorm ever seen!
 > Fight 4 types of enemies, get stronger as you go deeper into the desert and defeat the creatures.
